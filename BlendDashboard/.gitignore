@@ -1,0 +1,7 @@
+__pycache__/
+incoming/
+archive/
+users.csv
+directors.json
+*.xls
+*.xlsx

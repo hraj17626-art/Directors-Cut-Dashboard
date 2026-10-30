@@ -1,0 +1,247 @@
+{
+ "dates": [
+  "2026-10-15"
+ ],
+ "people": [
+  {
+   "id": "3b84119d7e",
+   "n": "All directors",
+   "t": "all"
+  },
+  {
+   "id": "a2c8130e96",
+   "n": "Sharad",
+   "t": "director"
+  },
+  {
+   "id": "947f986270",
+   "n": "Shubham Rathi",
+   "t": "director"
+  },
+  {
+   "id": "dbf97801d8",
+   "n": "Sumit Rathi",
+   "t": "director"
+  },
+  {
+   "id": "50d5da7ab2",
+   "n": "Shailesh",
+   "t": "director"
+  },
+  {
+   "id": "b9b899f1c3",
+   "n": "Ankith Sharma",
+   "t": "executive"
+  },
+  {
+   "id": "54e5a3423c",
+   "n": "Ashish Singh MKT",
+   "t": "executive"
+  },
+  {
+   "id": "8cfd812c81",
+   "n": "Ashutosh",
+   "t": "executive"
+  },
+  {
+   "id": "02a17e6006",
+   "n": "Avijit Das Mkt",
+   "t": "executive"
+  },
+  {
+   "id": "4662edab27",
+   "n": "Chandan Kumar M",
+   "t": "executive"
+  },
+  {
+   "id": "78cff42fc8",
+   "n": "Chandan Pathak",
+   "t": "executive"
+  },
+  {
+   "id": "ded6c4d036",
+   "n": "Gyandeep D",
+   "t": "executive"
+  },
+  {
+   "id": "c596ddb1b4",
+   "n": "Hari Shukla MKT",
+   "t": "executive"
+  },
+  {
+   "id": "dead81c377",
+   "n": "K Santosh",
+   "t": "executive"
+  },
+  {
+   "id": "334192eb9b",
+   "n": "Kartik Shukla",
+   "t": "executive"
+  },
+  {
+   "id": "aee11fb5e5",
+   "n": "Kiran Mkt",
+   "t": "executive"
+  },
+  {
+   "id": "a7f8461a08",
+   "n": "Lalit",
+   "t": "executive"
+  },
+  {
+   "id": "ecf7be824d",
+   "n": "Makarand G",
+   "t": "executive"
+  },
+  {
+   "id": "374b379683",
+   "n": "Manivannan",
+   "t": "executive"
+  },
+  {
+   "id": "84477ce045",
+   "n": "Meghraj",
+   "t": "executive"
+  },
+  {
+   "id": "12e8bce614",
+   "n": "Nand Kumar & Narayan",
+   "t": "executive"
+  },
+  {
+   "id": "20571c4da4",
+   "n": "Narsing",
+   "t": "executive"
+  },
+  {
+   "id": "30b7b2b0f7",
+   "n": "Nikil Chandak",
+   "t": "executive"
+  },
+  {
+   "id": "de65547586",
+   "n": "P Jayraj",
+   "t": "executive"
+  },
+  {
+   "id": "fb226c6356",
+   "n": "Pallavi Ingulkar",
+   "t": "executive"
+  },
+  {
+   "id": "5fc8cbf0f3",
+   "n": "Prasanth Jagtap",
+   "t": "executive"
+  },
+  {
+   "id": "763c5249ea",
+   "n": "Prasanth Pathak",
+   "t": "executive"
+  },
+  {
+   "id": "b08b596adf",
+   "n": "Priyanka Jadhav",
+   "t": "executive"
+  },
+  {
+   "id": "c31889759c",
+   "n": "Rajesh Pune",
+   "t": "executive"
+  },
+  {
+   "id": "375a07f5b0",
+   "n": "Ravi",
+   "t": "executive"
+  },
+  {
+   "id": "c6722cf0fd",
+   "n": "Ruchir",
+   "t": "executive"
+  },
+  {
+   "id": "0fca221b66",
+   "n": "Sachin Swamy",
+   "t": "executive"
+  },
+  {
+   "id": "e5b97c2f88",
+   "n": "Sagar Khedikar",
+   "t": "executive"
+  },
+  {
+   "id": "5ca34708b8",
+   "n": "Sangamesh",
+   "t": "executive"
+  },
+  {
+   "id": "81d9e2e19d",
+   "n": "Santosh Mardhekar Executive",
+   "t": "executive"
+  },
+  {
+   "id": "7852592024",
+   "n": "Saroj Padhi",
+   "t": "executive"
+  },
+  {
+   "id": "a7c7172ac8",
+   "n": "Shailesh",
+   "t": "executive"
+  },
+  {
+   "id": "32b7bd405d",
+   "n": "Sharad",
+   "t": "executive"
+  },
+  {
+   "id": "786ef90083",
+   "n": "Sharadendu Pandey",
+   "t": "executive"
+  },
+  {
+   "id": "ed0526c9bc",
+   "n": "Shubham Rathi",
+   "t": "executive"
+  },
+  {
+   "id": "51a61c19ba",
+   "n": "Sujit Kumar M",
+   "t": "executive"
+  },
+  {
+   "id": "d11166579e",
+   "n": "Sumit Rathi",
+   "t": "executive"
+  },
+  {
+   "id": "d32feb90aa",
+   "n": "Tushar Arora",
+   "t": "executive"
+  },
+  {
+   "id": "d873b9d076",
+   "n": "Venkatesh K",
+   "t": "executive"
+  },
+  {
+   "id": "d0439d5ba6",
+   "n": "Vijaykumar Rachawar",
+   "t": "executive"
+  },
+  {
+   "id": "d2460161df",
+   "n": "Vikas Agarwal",
+   "t": "executive"
+  },
+  {
+   "id": "b24d2fd760",
+   "n": "Vikram Jeerge",
+   "t": "executive"
+  },
+  {
+   "id": "93e0c03083",
+   "n": "Viraj Kamble",
+   "t": "executive"
+  }
+ ]
+}
